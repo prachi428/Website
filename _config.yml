@@ -18,8 +18,9 @@ footer: Let's Connect!
 email: prachi17075@iiitd.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   I am newbie to the world of gaming. Let's explore this space together!
-domain: my-game-dev-journey.github.io 
-url: https://my-game-dev-journey.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# domain: my-game-dev-journey.github.io 
+baseurl: /Website
+url: https://prachi428.github.io # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_id: prachi-arora-90ab99167
 linkedin_username: Prachi Arora
 github_username:  prachi428
