@@ -24,7 +24,10 @@ url: https://prachi428.github.io # the base hostname & protocol for your site, e
 linkedin_id: prachi-arora-90ab99167
 linkedin_username: Prachi Arora
 github_username:  prachi428
-
+header_pages: 
+  - gallery.md
+  - about.md
+  
 # Build settings
 markdown: kramdown
 theme: minima
